@@ -1,0 +1,27 @@
+[
+
+    { "keys" : ["super+c"], "command" : "intellij_copy" },
+
+    { "keys" : ["super+x"], "command" : "intellij_cut" },
+
+    { "keys": ["super+w"], "command": "close" },
+
+    { "keys": ["super+d"], "command": "duplicate_line" },
+
+    { "keys": ["alt+shift+up"], "command": "swap_line_up" },
+
+    { "keys": ["alt+shift+down"], "command": "swap_line_down" },
+
+    { "keys": ["alt+right"], "command": "next_view" },
+
+    { "keys": ["alt+left"], "command": "prev_view" },
+
+    { "keys": ["super+t"], "command": "new_file" },
+
+    { "keys": ["super+n"], "command": "new_window" },
+
+    { "keys": ["shift+f6"], "command": "intellij_rename_file" },
+
+    { "keys": ["shift+f5"], "command": "intellij_copy_file" }
+
+]
